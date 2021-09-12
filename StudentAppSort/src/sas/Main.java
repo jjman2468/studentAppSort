@@ -9,7 +9,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		Main m = new Main();
 		m.stduent_run();
-		// m.fruit_run();
+	
 	}
 
 	public void stduent_run() {
